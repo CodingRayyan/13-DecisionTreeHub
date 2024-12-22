@@ -55,4 +55,4 @@ If you have suggestions, new datasets, or enhancements for this guidebook, feel 
 
 ## Today's Quote:
 
-"Machine learning is the art of letting algorithms grow trees while we prune them for wisdom." - **Anonymous**
+"A breakthrough in machine learning would be ten micorsofts" - **Bill Gates**
