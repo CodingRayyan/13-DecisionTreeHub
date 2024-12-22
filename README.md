@@ -18,7 +18,7 @@ This guidebook covers the following key aspects of Decision Trees:
 
 ### 3. **What is Attribute Selection Measures (ASM)?**
 - Understanding criteria like Gini Index, Entropy, and Information Gain for splitting nodes.
-- Learn More: [ASM Explained](https://towardsdatascience.com/decision-tree-algorithm-explained-83beb6e78ef4)
+- Learn More: [ASM Explained](https://www.slideshare.net/slideshow/classification-attribute-selection-classifiers-decision-tree-id3c45navie-bayes-linear-regression-knn/267513034)
 
 ### 4. **Dataset Loading**
 - Loading datasets (e.g., `Social_Network_Ads.csv`, `car_data_kaggle.csv`) for training and evaluation.
